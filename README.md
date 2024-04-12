@@ -4,6 +4,8 @@ We generate 10 new base results, including three kmeans methods, three spectral 
 
 The comparison experiments results are shown in "Anonymous.pdf".
 
+The content of the image below is consistent with the content of the document "Anonymous.pdf".
+
 ![image](figs/1.png)
 ![image](figs/2.png)
 ![image](figs/3.png)
